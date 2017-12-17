@@ -29,7 +29,7 @@ import javafx.stage.StageStyle;
  * Book: Pro Java FX 2 Java 8.
  * Chapter 2
  * 
- * It is not a copy and paste.
+ * It uses the {@link FXUtil#build(Object, java.util.function.Consumer)} method to create the Objects, 
  * 
  * @author eschlei
  *
